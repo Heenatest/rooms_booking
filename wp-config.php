@@ -67,6 +67,8 @@ define( 'NONCE_SALT',       '/v9={9W|W *]L3|h3lH8]gWVkb0g+g.7GAzIU:1iWI8$k+HemaK
  */
 $table_prefix = 'rb_';
 
+define( 'WP_MEMORY_LIMIT', '752M' );
+
 /**
  * For developers: WordPress debugging mode.
  *
